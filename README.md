@@ -26,7 +26,7 @@ flutter pub get
 flutter run
 ```
 
-## 📸 Screenshots
+
 
 Add screenshots of the application here.
 
